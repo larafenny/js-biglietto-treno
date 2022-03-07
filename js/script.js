@@ -8,6 +8,9 @@ L'output del prezzo finale va messo fuori in forma umana (con massimo due decima
 */
 
 
+// Inserisco controllo JS
+console.log('JS ok');
+
 // Defiinisco costante prezzo biglietto al km
 const pricePerKm = 0,21;
 
@@ -16,3 +19,4 @@ const discountMin = 1,20;
 
 // Defiinisco costante sconto per over 65
 const discountOver = 1,65;
+
