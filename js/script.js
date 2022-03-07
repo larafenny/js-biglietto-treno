@@ -22,3 +22,6 @@ const discountOver = 1.65;
 
 // Richiesta all'utente di inserire il numero di KM che vuole percorrere
 let km = prompt('Quanti km vuoi percorreere?');
+
+// Richiesta all'utente età
+let age = prompt('Quanti anni hai?');
