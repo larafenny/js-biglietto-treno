@@ -9,6 +9,8 @@ L'output del prezzo finale va messo fuori in forma umana (con massimo due decima
 
 
 // Defiinisco costante prezzo biglietto al km
-
 const pricePerKm = 0,21;
+
+// Defiinisco costante pcosttante sconto per minorenni
+const discountMin = 1,20;
 
