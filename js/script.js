@@ -20,3 +20,5 @@ const discountMin = 1.20;
 // Defiinisco costante sconto per over 65
 const discountOver = 1.65;
 
+// Richiesta all'utente di inserire il numero di KM che vuole percorrere
+let km = prompt('Quanti km vuoi percorreere?');
