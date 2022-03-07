@@ -21,9 +21,16 @@ const discountMin = 1.20;
 const discountOver = 1.65;
 
 // Richiesta all'utente di inserire il numero di KM che vuole percorrere
-let km = parseInt(prompt('Quanti km vuoi percorreere?'));
+let km = parseInt(prompt('Quanti km vuoi percorrere?'));
 
 // Richiesta all'utente età
 let age = parseInt(prompt('Quanti anni hai?'));
+
+// Calcolo costo biglietto in base ai km percorsi (senza applicare sconto) e controllo in console
+let price = pricePerKm * km;
+console.log(price);
+
+
+
 
 
